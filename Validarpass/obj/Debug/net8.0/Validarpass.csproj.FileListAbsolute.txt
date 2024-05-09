@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\bin\Debug\net8.0\Validarpass.exe
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\bin\Debug\net8.0\Validarpass.deps.json
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\bin\Debug\net8.0\Validarpass.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\bin\Debug\net8.0\Validarpass.dll
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\bin\Debug\net8.0\Validarpass.pdb
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.dll
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\refint\Validarpass.dll
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.pdb
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\Validarpass.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Validarpass\obj\Debug\net8.0\ref\Validarpass.dll
